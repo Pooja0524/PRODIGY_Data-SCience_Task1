@@ -1,5 +1,6 @@
 # PRODIGY_Data-SCience_Task1
 Task 1 - Data Analysis using Python as part of Prodigy InfoTech Data Science Internship.
+
 Dataset : https://www.kaggle.com/datasets/anthonytherrien/synthetic-population-demographics-dataset/data
 
 ## 🎯 Task 1: Data Visualization
